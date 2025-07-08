@@ -177,7 +177,7 @@ function App() {
             </p>
 
             <a
-              href="/files/SuperstoreDashboard.xlsx"
+              href="/SuperstoreDashboard.xlsx"
               download
               className="inline-flex items-center space-x-3 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white font-bold py-4 px-8 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-purple-500/25"
             >
@@ -277,10 +277,10 @@ function App() {
             </div>
             <div className="h-1 w-24 bg-gradient-to-r from-purple-500 to-pink-500 mx-auto mb-6"></div>
             <p className="text-gray-400 text-lg">
-              Made with 💻 by <span className="text-purple-400 font-semibold">Shabab Akbar</span>
+              Made by <span className="text-purple-400 font-semibold">Shabab Akbar</span>
             </p>
             <p className="text-gray-500 text-sm mt-2">
-              © 2024 All rights reserved. Ready to create your next dashboard?
+              © 2025 All rights reserved. Gmail: shababakbar.dev@gmail.com
             </p>
           </div>
         </div>
