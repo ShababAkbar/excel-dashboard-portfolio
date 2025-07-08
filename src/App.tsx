@@ -67,7 +67,7 @@ function App() {
               <div className="h-full bg-gray-800/70 backdrop-blur-sm rounded-2xl p-8 border border-purple-500/20 hover:border-purple-500/40 transition-all duration-300 flex flex-col justify-center">
                 <div className="h-full bg-gradient-to-br from-purple-900/30 to-blue-900/30 rounded-xl flex items-center justify-center border-2 border-dashed border-purple-500/30 hover:border-purple-500/50 transition-all duration-300 overflow-hidden group">
                   <img
-                    src="/files/dashboard.png"
+                    src="/dashboard.png"
                     alt="Excel Dashboard Screenshot"
                     className="w-full h-full object-contain transition-transform duration-500 ease-in-out group-hover:scale-110"
                   />
